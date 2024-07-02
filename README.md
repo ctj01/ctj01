@@ -29,6 +29,7 @@ I am particularly interested in decentralized finance (DeFi) and asset tokenizat
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ctj01&repo=dex&show_owner=true)](https://github.com/ctj01/Dex)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ctj01&repo=uniswap-single&show_owner=true)](https://github.com/ctj01/uniswap-single)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ctj01&repo=wallet-multisig&show_owner=true)](https://github.com/ctj01/wallet-multisig)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ctj01&repo=smart-account&show_owner=true)](https://github.com/ctj01/smart-account)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ctj01&repo=Crosschain-nft-minter&show_owner=true)](https://github.com/ctj01/Crosschain-nft-minter)
 
 <h3> 🤝🏻 Connect with Me </h3>
