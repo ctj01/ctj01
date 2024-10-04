@@ -1,16 +1,19 @@
-
 <p align="center">
  <h2 align="center">Profile</h2>
 </p>
 
 ### Hi there 👋 I'm [Cristian Mendoza](https://www.linkedin.com/in/ctj01/)
-> Software Engineer
+> Software Engineer | Distributed Systems Expert | Trading Enthusiast
 
 <div>
  <p>
-I am a software engineer with six years of experience in both backend and frontend technologies. Over the years, I have also worked as a software architect, designing and building scalable and maintainable systems.
-Recently, I have focused my career on the financial sector. For the past three years, I have been learning about financial products and markets. In addition, I have spent the last year studying blockchain technology, and I have participated in blockchain hackathons in my country.
-I am particularly interested in decentralized finance (DeFi) and asset tokenization, as I firmly believe they represent the future of the financial system
+As a software engineer with six years of hands-on experience, I specialize in building high-performance, distributed systems that scale with ease. From architecting cloud-based microservices to optimizing real-time data processing pipelines, I ensure that the solutions I design are not only efficient but also robust and maintainable.
+
+For the past three years, I’ve dived deep into the financial sector, where I’ve applied my engineering skills to trading systems and market analysis. I’m passionate about leveraging technology to create strategic trading tools and improve decision-making processes. My expertise spans across a variety of industries, from cloud computing with AWS to distributed technologies like Kafka and Redis.
+
+Beyond the code, I’m an active trader and financial market analyst. I regularly publish my trading insights and strategies on [TradingView](https://es.tradingview.com/u/cristianmt023/), where I break down complex market trends with data-driven technical analysis.
+
+Always eager to innovate, I’m constantly exploring the intersection of technology and finance, ensuring that my work drives meaningful impact.
 </p>
 </div>
 
