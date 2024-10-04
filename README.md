@@ -3,7 +3,7 @@
 </p>
 
 ### Hi there 👋 I'm [Cristian Mendoza](https://www.linkedin.com/in/ctj01/)
-> Software Engineer | Distributed Systems Expert | Trading Enthusiast
+> Software Engineer | Distributed Systems Expert | Financial Markets Analyst
 
 <div>
  <p>
