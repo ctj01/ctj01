@@ -29,6 +29,7 @@ Always eager to innovate, I’m constantly exploring the intersection of technol
 
 ### Github Repos
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ctj01&repo=decision-engine&show_owner=true)](https://github.com/ctj01/decision-engine)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ctj01&repo=Audio-Summary-App&show_owner=true)](https://github.com/ctj01/Audio-Summary-App)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ctj01&repo=dex&show_owner=true)](https://github.com/ctj01/Dex)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ctj01&repo=uniswap-single&show_owner=true)](https://github.com/ctj01/uniswap-single)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ctj01&repo=wallet-multisig&show_owner=true)](https://github.com/ctj01/wallet-multisig)
